@@ -11,3 +11,4 @@ Created 'var screenHeight' to be used in 'var numPizzas'.  This dynamically calc
 In 'addEventListener("DOMContentLoaded"...")', moved the the declaration of var elem outside of the for loop so it doesn't need to be created with every iteration.
 
 In style.css, added vendor prefixes.  To .mover, added blackface-visibility: hidden and moved the moving pizzas (.mover) to their own layer via transform: translateZ(0).
+Completed as part of course at Udacity.com.
